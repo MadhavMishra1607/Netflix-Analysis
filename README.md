@@ -1,1 +1,2 @@
 # Netflix-Analysis
+Analyses the dataset, which contains all information about movies and TV shows made available on Netflix between 2008 and 2021, and provides the necessary output based on several criteria.
