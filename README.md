@@ -8,16 +8,16 @@ The dataset includes information about thousands of Netflix titles, such as thei
 
 Analysing the above mentioned dataset to genrate the following Insights:
 
-(i) Who is the Director of Movie named 1000 Rupee Note and When was it released.
-(ii) In which year the Highest No. of Movies and TV Shows are released and representing it using a Bar Graph
-(iii) Finding all the Movies that were Released in the year 2020
-(iv) Finding the Title of all TV Show that are made in India
-(v) Finding Top 10 Directors through the no. of movies and Tv shows they Directed
-(vi) Category is Movie and Type is Comedies" or "Country is United Kingdom
-(vii) Movies/TV Shows in which Tom Cruise was casted?
-(ix) Movies/TV Shows with maximum duration
-(x) Which Country has the Highest No. of TV shows
-(xi) Category is 'Movie' and Type is 'Dramas' OR Category is 'TV Show' and Type is 'Kids TV'
+(i) Who is the Director of Movie named 1000 Rupee Note and When was it released.<br>
+(ii) In which year the Highest No. of Movies and TV Shows are released and representing it using a Bar Graph<br>
+(iii) Finding all the Movies that were Released in the year 2020<br>
+(iv) Finding the Title of all TV Show that are made in India<br>
+(v) Finding Top 10 Directors through the no. of movies and Tv shows they Directed<br>
+(vi) Category is Movie and Type is Comedies" or "Country is United Kingdom<br>
+(vii) Movies/TV Shows in which Tom Cruise was casted?<br>
+(ix) Movies/TV Shows with maximum duration<br>
+(x) Which Country has the Highest No. of TV shows<br>
+(xi) Category is 'Movie' and Type is 'Dramas' OR Category is 'TV Show' and Type is 'Kids TV'<br>
 
 <h3>Netflix_Analysis.pdf </h3>
 
